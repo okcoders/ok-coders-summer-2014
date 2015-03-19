@@ -402,3 +402,4 @@ The `static` middleware is used to send files in the specified directory automat
 By default express uses a `public` directory but you could use whatever directory you wanted and even add additional directories.
 
 
+
